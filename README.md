@@ -1,0 +1,2 @@
+# fuck-nintendo
+emulator archive
